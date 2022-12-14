@@ -34,7 +34,7 @@ const Coin = () => {
             </Link>
             <p className='text-white'></p>
             </nav>            
-        <div className='font-dosis'>
+        <div className='font-dosis lg:bg-gray-100 pt-2 lg:rounded-2xl'>
             <div className='p-5 flex justify-between items-center'>
                 <div className="flex justify-between items-center md:ml-5 ml-2">
                     {coin.image ? <img src={coin.image.small} alt='' className="h-50" /> : null}
