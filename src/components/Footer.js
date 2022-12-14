@@ -16,7 +16,7 @@ const Footer = () => {
             <a href="https://github.com/dunyanong" target="_blank" rel="noreferrer"><AiFillGithub /></a>    
         </div>
      
-        <div className="pb-5 pt-2">
+        <div className="pb-5 pt-5">
             <p className="text-gray-600 text-center">Copyright @ Tokenium</p>
         </div>
     </footer>
