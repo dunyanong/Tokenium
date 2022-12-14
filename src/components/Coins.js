@@ -14,9 +14,9 @@ const Coins = (props) => {
                 </div>
             </Link>
             </nav>
-            <div className="font-dosis lg:shadow-lg lg:rounded-2xl">
+            <div className="font-dosis lg:shadow-lg lg:rounded-2xl lg:bg-gray-100 pt-2">
             <div className="w-auto ml-5">
-                <div className='grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 lg:gap-2 font-bold text-lg py-1 text-gray-800'>                
+                <div className='grid grid-cols-3 md:grid-cols-4 lg:grid-cols-6 lg:gap-2 font-bold text-xl py-1 text-gray-800'>                
                     <p className="ml-10 font-ssp">#</p>
                     <p className="font-ssp">Coin</p>
                     <p className="font-ssp">Price</p>
